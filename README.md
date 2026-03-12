@@ -1,11 +1,14 @@
 # Pong, But...
+
+![Gameplay](gameplay.gif)
+
 Pong, But... is a WarioWare-style adaptation of the classic 1972 arcade Pong. On each serve, players encounter a randomly-chosen variation of Pong. Variations can include shrinking paddles, fading balls, inverted input, and changed bounce behaviors. The core challenge of the game is to quickly understand the variation and adapt your gameplay accordingly.
 
-The game is designed to serve as a collective class project that results in a fully-playable game in as few as 3 weeks. Students follow along as we construct a close, digital recreation of Pong. During this part, care is taken to simulate the original arcade as closely as possible, thanks to \[that pdf\]. This includes faithfully recreating the paddle bounce behavior, increasing the ball speed as a rally continues, and incorporating recordings of original sound effects. Liberties are taken with font, timing, and (optionally) player input.
+The game is designed to serve as a collective class project that results in a fully-playable game in as few as 3 weeks. Students follow along as we construct a close, digital recreation of Pong. During this part, care is taken to simulate the original arcade as closely as possible, thanks to Dr. Hugo R. Holden’s 106-page analysis of Pong’s board logic, [ATARI PONG E circuit analysis & lawn tennis: building a digital video game with 74 series TTL IC’s](https://www.pong-story.com/LAWN_TENNIS.pdf). This includes faithfully recreating the paddle bounce behavior, increasing the ball speed as a rally continues, and incorporating recordings of original sound effects. Liberties are taken with font, timing, and (optionally) player input.
 
 Once the game is sufficiently playable, students are tasked with brainstorming 50 ideas for variations. The code we’ve written is intentionally flexible enough that variation ideas easily emerge from their affordances. The spare visual vocabulary of Pong helps focus students on gameplay.
 
-I pick their best ideas, we hold a draft, and students work to implement their chosen variations. As students finish each piece, I fold it into the final game.
+I pick their best ideas, we hold a draft, and students work to implement their chosen variations. As students finish each variation, I fold it into the final game.
 
 Optional custom knob-based controllers allow students to understand how different input systems change gameplay.
 
