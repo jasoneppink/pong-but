@@ -155,6 +155,7 @@ systemctl --no-block --user start xsession.target
 		systemctl --user enable pongbut
 		systemctl --user start pongbut
 		```
+		
 	*	`Alt+F4` to quit kiosk Firefox
 
 	*	Reboot to confirm *Pong, But...* starts automatically.
