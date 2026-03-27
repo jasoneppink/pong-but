@@ -8,7 +8,7 @@ Play it here: [https://editor.p5js.org/jasoneppink/sketches/4TO1UwNmK](https://e
 
 *Pong, But...* is a WarioWare-style adaptation of Atari's 1972 classic arcade game Pong. On each serve, players encounter a randomly-chosen variation of Pong. Variations can include shrinking paddles, fading balls, inverted input, and changed bounce behaviors. The core challenge of the game is to quickly understand the variation and adapt your gameplay accordingly.
 
-*Pong, But...* was developed for my [p5.js](https://p5js.org/) beginner creating coding class, which is aimed at students interested in games and animation. It is designed as a culminating project that reinforces students’ understanding of classes and inheritance. When taught as outlined below, it results in a collaboratively-created, fully-playable game in as few as 3 weeks.
+*Pong, But...* was developed for my [p5.js](https://p5js.org/) beginner creative coding class, which is aimed at students interested in games and animation. It is designed as a culminating project that reinforces students’ understanding of classes and inheritance. When taught as outlined below, it results in a collaboratively-created, fully-playable game in as few as 3 weeks.
 
 ## Teaching Overview
 
