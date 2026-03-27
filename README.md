@@ -147,8 +147,9 @@ Exhibiting *Pong, But...* with controllers requires moving the game from the p5.
 
 		```
 		systemctl --user import-environment PATH DBUS_SESSION_BUS_ADDRESS
-systemctl --no-block --user start xsession.target
+		systemctl --no-block --user start xsession.target
 		```
+  
 	*	Run these two lines to enable and start the service:
 		
 		```
