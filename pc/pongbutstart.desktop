@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Pong, But... launcher
+Exec=/home/pongbut/pongbutstart.sh

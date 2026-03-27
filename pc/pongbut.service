@@ -1,0 +1,11 @@
+[Unit]
+Description=Pong, But...
+PartOf=graphical-session.target
+
+[Service]
+ExecStart=/home/pongbut/pongbutstart.sh
+Restat=on-abort
+Type=forking
+
+[Install]
+WantedBy=xsession.target
